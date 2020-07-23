@@ -19,7 +19,7 @@
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='Portfolio' height='40'>](https://TheJaredWilcurt.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to profile'  height='40'>](https://dev.to/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'    alt='Twitter profile' height='40'>](https://twitter.com/@TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg'     alt='Twitch profile'  height='40'>](https://twitch.com/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg'    alt='YouTube profile' height='40'>](https://youtube.com/TheJaredWilcurt)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' title='Portfolio' height='40'>](https://TheJaredWilcurt.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' title='Dev.to profile'  height='40'>](https://dev.to/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'    title='Twitter profile' height='40'>](https://twitter.com/@TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg'     title='Twitch profile'  height='40'>](https://twitch.com/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg'    title='YouTube profile' height='40'>](https://youtube.com/TheJaredWilcurt)
 
 ### My (incomplete) GitHub stats
 

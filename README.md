@@ -1,4 +1,4 @@
-<img src="tjw-logo.gif" alt="The Jared Wilcurt logo" width="334">
+<img src="https://raw.githubusercontent.com/TheJaredWilcurt/TheJaredWilcurt/master/tjw-logo.gif" alt="The Jared Wilcurt logo" width="334">
 
 ###### ***Senior Software Engineer*** | ***Cross-Platform Desktop App developer*** | ***Public Speaker***
 

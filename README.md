@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="tjw-logo.gif" alt="The Jared Wilcurt logo" width="334">
 
-<!--
-**TheJaredWilcurt/TheJaredWilcurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### ***Senior Software Engineer*** | ***Cross-Platform Desktop App developer*** | ***Public Speaker***
 
-Here are some ideas to get you started:
+* **Languages:** JavaScript (ES5/6/7/8), Node.js, CSS, Sass, HTML, Markdown
+* **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
+* **Skills:** Responsive Web Design, Site & Image Optimization, Accessibility, Localization, UX, Agile
+* **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
+* **Tools:** Git, SublimeText, Gulp, Rollup, ESLint, SassLint, Babel, Webpack, All Adobe CC products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am available to give talks on the following topics:
+
+* Vue.js (any/all aspects)
+* XPDA (Desktop app workshop)
+* Developer Résumés
+* CSS Specificity
+* Finishing Projects
+* Agile
+
+### You can also find me on
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='Portfolio' height='40'>](https://TheJaredWilcurt.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to profile'  height='40'>](https://dev.to/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'    alt='Twitter profile' height='40'>](https://twitter.com/@TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg'     alt='Twitch profile'  height='40'>](https://twitch.com/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg'    alt='YouTube profile' height='40'>](https://youtube.com/TheJaredWilcurt)
+
+### My (incomplete) GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos. Which is where most of my work is done.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&show_icons=true)

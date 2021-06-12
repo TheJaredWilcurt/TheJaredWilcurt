@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/TheJaredWilcurt/TheJaredWilcurt/master/TheJaredWilcurt.png" alt="The Jared Wilcurt logo" width="268" height="111">
 
 
-###### ***Senior Software Engineer*** | ***Cross-Platform Desktop App developer*** | ***Public Speaker***
+###### ***UI Architecht*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
 
-* **Languages:** JavaScript (ES5/6/7/8), Node.js, CSS, Sass, HTML, Markdown
+* **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
 * **Skills:** Responsive Web Design, Site & Image Optimization, Accessibility, Localization, UX, Agile
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI

@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/TheJaredWilcurt/TheJaredWilcurt/master/TheJaredWilcurt.png" alt="The Jared Wilcurt logo" width="268" height="111">
 
 
-###### ***UI Architecht*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
+###### ***UI Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
@@ -22,7 +22,11 @@
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' title='Portfolio' height='40'>](https://TheJaredWilcurt.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' title='Dev.to profile'  height='40'>](https://dev.to/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'    title='Twitter profile' height='40'>](https://twitter.com/@TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg'     title='Twitch profile'  height='40'>](https://twitch.com/TheJaredWilcurt)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg'    title='YouTube profile' height='40'>](https://youtube.com/TheJaredWilcurt)
+* [Portfolio](https://TheJaredWilcurt.com)
+* [Dev.to](https://dev.to/TheJaredWilcurt)
+* [Twitter](https://twitter.com/@TheJaredWilcurt)
+* [Twitch](https://twitch.com/TheJaredWilcurt)
+* [YouTube](https://youtube.com/TheJaredWilcurt)
 
 
 ### My (incomplete) GitHub stats

@@ -22,7 +22,7 @@
 
 ### You can also find me on
 
-* [Portfolio](https://TheJaredWilcurt.com)
+* [My Portfolio](https://TheJaredWilcurt.com)
 * [Dev.to](https://dev.to/TheJaredWilcurt)
 * [Twitter](https://twitter.com/@TheJaredWilcurt)
 * [Twitch](https://twitch.com/TheJaredWilcurt)

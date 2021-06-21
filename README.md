@@ -14,10 +14,10 @@
 
 * Vue.js (any/all aspects)
 * XPDA (Cross-Platform Desktop Apps, I also have a "Make your first desktop app" workshop)
-* Developer Résumés
-* CSS - Specificity, Atomization, Componentization
-* Finishing Projects
-* Agile
+* Crafting the perfect Developer Résumé
+* CSS - Specificity, Atomization, Componentization, Patterns
+* Finishing the Projects you start
+* Agile for developers
 
 
 ### You can also find me on

@@ -31,6 +31,6 @@
 
 ### My (incomplete) GitHub stats
 
-This doesn't take into account the work done in forks, organizations, or private repos. Which is where most of my work is done.
+This doesn't take into account the work done in forks, organizations, or private repos. Which is where most of my work is done. The image is also cached by GitHub, so you'll have to click on it to see the most recent stats.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true&cacheClear=4)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true&cacheClear=4)](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true)

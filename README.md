@@ -33,4 +33,4 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos. Which is where most of my work is done.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&show_icons=true&cacheClear=4)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true&cacheClear=4)

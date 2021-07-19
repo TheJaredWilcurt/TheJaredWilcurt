@@ -33,4 +33,4 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos. Which is where most of my work is done. The image is also cached by GitHub, so you'll have to click on it to see the most recent stats.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true&cacheClear=4)](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&theme=vue-dark&show_icons=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&show_icons=true&title_color=5325ED&icon_color=5325ED&border_color=5325ED&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=TheJaredWilcurt&show_icons=true&title_color=5325ED&icon_color=5325ED&border_color=5325ED&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true)

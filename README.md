@@ -5,7 +5,7 @@
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
-* **Skills:** Responsive Web Design, Site & Image Optimization, Accessibility, Localization, UX, Agile
+* **Skills:** Agile, UX, Responsive Web Design, Site & Image Optimization, Accessibility, Localization
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
 * **Tools:** Git, SublimeText, Gulp, Rollup, ESLint, SassLint, Babel, Webpack, All Adobe CC products
 

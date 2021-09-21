@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/TheJaredWilcurt/TheJaredWilcurt/master/TheJaredWilcurt.png" alt="The Jared Wilcurt logo" width="268" height="111">
 
 
-###### ***Vue UI Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
+###### ***Frontend Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma

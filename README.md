@@ -3,7 +3,7 @@
 
 ###### ***Frontend Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
 
-* **Languages:** JavaScript (ES2022), Node.js, CSS, Sass, HTML, Markdown
+* **Languages:** JavaScript (ES2023), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js (2 & 3)/Vuex/Pinia/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
 * **Skills:** Agile (Philosophy, Scrum, Kanban), Responsive Web Design, Site & Image Optimization, Accessibility, Localization, UX (hobbyist level)
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI

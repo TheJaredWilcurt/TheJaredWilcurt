@@ -3,17 +3,18 @@
 
 ###### ***Frontend Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
 
-* **Languages:** JavaScript (ES2023), Node.js, CSS, Sass, HTML, Markdown
+* **Languages:** JavaScript (ES2025), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js (2 & 3)/Vuex/Pinia/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
 * **Skills:** Agile (Philosophy, Scrum, Kanban), Responsive Web Design, Site & Image Optimization, Accessibility, Localization, UX (hobbyist level)
-* **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
-* **Tools:** Git, SublimeText, ESLint, SassLint, Gulp, Vite, Babel, Webpack, Rollup, All Adobe CC products
+* **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI, Jenkins
+* **Tools:** Git, SublimeText, ESLint, Vite, SassLint, Gulp, Babel, Webpack, Rollup, All Adobe CC products
 
 
 ### I'm available for talks/podcasts on the following topics:
 
 * Vue.js (any/all aspects)
 * XPDA (Cross-Platform Desktop Apps, I also have a "Make your first desktop app" workshop)
+* Unit testing (Vue, Snapshot, etc)
 * Crafting the perfect Developer Résumé
 * CSS Talks - Specificity, Atomization, Componentization, Patterns
 * Finishing the Projects you start
